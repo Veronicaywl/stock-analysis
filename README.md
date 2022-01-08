@@ -81,7 +81,6 @@ The advantages for refactored code is it increased the run time on macro when an
 ### The pros and cons apply to refactoring the original VBA script
 The pros apply to refactored codes is well organized. It improves the programming time for the dataset. Overall, it helps the code more visulized. The cons apply to refactored code is subscript out of range often. The application may be to large to have the right informations to test the result. Attached is the stocks analysis for Steve's parent. These are some better stocks to invest which is "ENPH" and "Run". 
 
-! [2018 All Stocks Analysis] (/Users/veronica/Desktop/Module 2 Challenge/Resources)
-
- ! [2017 All Stocks Analysis] (/Users/veronica/Desktop/Module 2 Challenge/Resources)
+<img width="465" alt="2018 All Stocks Analysis" src="https://user-images.githubusercontent.com/94089680/148662998-b1b06971-6a5f-4824-9971-0a84befffe13.png">
+<img width="467" alt="2017 All Stocks Analysis" src="https://user-images.githubusercontent.com/94089680/148662997-f9a461ec-b820-4135-b029-49c6b02c0b93.png">
 
