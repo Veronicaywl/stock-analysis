@@ -74,7 +74,7 @@ I followed the steps by implementing the refactored code on VBA. I created a new
 
 The advantages for refactored code is it increased the run time on macro when analyze the stocks data. The original macro it took about 0.6 seconds to run the macro when I was analyzing the stocks. The refactored code run time is 0.093 seconds to run the macro. It increased the speed to analysis data about 85%. Attached is the picture of the run time screenshot in 2017 and 2018. 
 
- ! [This is an image] (/Users/veronica/Desktop/Module 2 Challenge/Resources)
+ ! [2018 Run time] (/Users/veronica/Desktop/Module 2 Challenge/Resources)
 
 ! [2017 Run time] (/Users/veronica/Desktop/Module 2 Challenge/Resources/)
 
